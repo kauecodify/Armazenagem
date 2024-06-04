@@ -1,0 +1,35 @@
+{
+    "dataPagamento": "2024-06-03",
+    "empresa": "Empresa ABC",
+    "valor": "100.00"
+}
+
+{
+    "dataPagamento": "2024-06-04",
+    "empresa": "Empresa XYZ",
+    "valor": "150.50"
+}
+
+{
+    "dataPagamento": "2024-06-05",
+    "empresa": "Empresa 123",
+    "valor": "200.00"
+}
+
+{
+    "dataPagamento": "2024-06-06",
+    "empresa": "Empresa QRS",
+    "valor": "75.25"
+}
+
+{
+    "dataPagamento": "2024-06-07",
+    "empresa": "Empresa ABCD",
+    "valor": "300.75"
+}
+
+{
+    "dataPagamento": "2024-06-08",
+    "empresa": "Empresa XYZW",
+    "valor": "125.00"
+}
