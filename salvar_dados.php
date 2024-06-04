@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $dataPagaento $_POST['dataPagamento'];
+    $dataPagamento $_POST['dataPagamento'];
     $empresa = $_POST['empresa'];
     $valor = $_POST['valor'];
 
